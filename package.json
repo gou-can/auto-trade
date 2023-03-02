@@ -1,0 +1,24 @@
+{
+  "name": "auto-trade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gou-can/auto-trade.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gou-can/auto-trade/issues"
+  },
+  "homepage": "https://github.com/gou-can/auto-trade#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "@nomiclabs/hardhat-etherscan": "^3.1.6",
+    "hardhat": "^2.12.7"
+  }
+}
